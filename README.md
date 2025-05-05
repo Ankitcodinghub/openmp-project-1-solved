@@ -1,0 +1,1 @@
+# openmp-project-1-solved
